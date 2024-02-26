@@ -1,0 +1,167 @@
+  
+  {
+    "cartlist":[],
+    "productlist": [
+      {
+        "id": 1,
+        "brand": "Tylenol",
+        "title": "Acetaminophen",
+        "imagepath": "/images/tylenol.jpg",
+        "price": 10.99,
+        "category": "Pain Relief"
+      },
+      {
+        "id": 2,
+        "brand": "Advil",
+        "title": "Ibuprofen",
+        "imagepath": "/images/advil.jpg",
+        "price": 9.99,
+        "category": "Pain Relief"
+      },
+      {
+        "id": 3,
+        "brand": "Zyrtec",
+        "title": "Cetirizine",
+        "imagepath": "/images/zyrtec.jpg",
+        "price": 15.49,
+        "category": "Allergy Relief"
+      },
+      {
+        "id": 4,
+        "brand": "Benadryl",
+        "title": "Diphenhydramine",
+        "imagepath": "/images/benadryl.jpg",
+        "price": 8.75,
+        "category": "Allergy Relief"
+      },
+      {
+        "id": 5,
+        "brand": "Pepto-Bismol",
+        "title": "Bismuth subsalicylate",
+        "imagepath": "/images/pepto.jpg",
+        "price": 7.99,
+        "category": "Digestive Health"
+      },
+      {
+        "id": 6,
+        "brand": "Tums",
+        "title": "Calcium carbonate",
+        "imagepath": "/images/tums.jpg",
+        "price": 5.49,
+        "category": "Digestive Health"
+      },
+      {
+        "id": 7,
+        "brand": "Robitussin",
+        "title": "Dextromethorphan",
+        "imagepath": "/images/robitussin.jpg",
+        "price": 12.99,
+        "category": "Cough & Cold"
+      },
+      {
+        "id": 8,
+        "brand": "Mucinex",
+        "title": "Guaifenesin",
+        "imagepath": "/images/mucinex.jpg",
+        "price": 14.25,
+        "category": "Cough & Cold"
+      },
+      {
+        "id": 9,
+        "brand": "Lipitor",
+        "title": "Atorvastatin",
+        "imagepath": "/images/lipitor.jpg",
+        "price": 20.99,
+        "category": "Heart Health"
+      },
+      {
+        "id": 10,
+        "brand": "Plavix",
+        "title": "Clopidogrel",
+        "imagepath": "/images/plavix.jpg",
+        "price": 18.75,
+        "category": "Heart Health"
+      },
+      {
+        "id": 11,
+        "brand": "Synthroid",
+        "title": "Levothyroxine",
+        "imagepath": "/images/synthroid.jpg",
+        "price": 22.49,
+        "category": "Thyroid Health"
+      },
+      {
+        "id": 12,
+        "brand": "Crestor",
+        "title": "Rosuvastatin",
+        "imagepath": "/images/crestor.jpg",
+        "price": 19.99,
+        "category": "Heart Health"
+      },
+      {
+        "id": 13,
+        "brand": "Nexium",
+        "title": "Esomeprazole",
+        "imagepath": "/images/nexium.jpg",
+        "price": 25.99,
+        "category": "Digestive Health"
+      },
+      {
+        "id": 14,
+        "brand": "Ambien",
+        "title": "Zolpidem",
+        "imagepath": "/images/ambien.jpg",
+        "price": 17.49,
+        "category": "Sleep Aid"
+      },
+      {
+        "id": 15,
+        "brand": "Xanax",
+        "title": "Alprazolam",
+        "imagepath": "/images/xanax.jpg",
+        "price": 16.75,
+        "category": "Anxiety Relief"
+      },
+      {
+        "id": 16,
+        "brand": "Prozac",
+        "title": "Fluoxetine",
+        "imagepath": "/images/prozac.jpg",
+        "price": 21.99,
+        "category": "Antidepressant"
+      },
+      {
+        "id": 17,
+        "brand": "Viagra",
+        "title": "Sildenafil",
+        "imagepath": "/images/viagra.jpg",
+        "price": 99.99,
+        "category": "Men's Health"
+      },
+      {
+        "id": 18,
+        "brand": "Cialis",
+        "title": "Tadalafil",
+        "imagepath": "/images/cialis.jpg",
+        "price": 89.99,
+        "category": "Men's Health"
+      },
+      {
+        "id": 19,
+        "brand": "Ortho Tri-Cyclen",
+        "title": "Ethinyl estradiol / Norgestimate",
+        "imagepath": "/images/ortho.jpg",
+        "price": 30.49,
+        "category": "Women's Health"
+      },
+      {
+        "id": 20,
+        "brand": "NuvaRing",
+        "title": "Etonogestrel / Ethinyl estradiol",
+        "imagepath": "/images/nuvaring.jpg",
+        "price": 35.75,
+        "category": "Women's Health"
+      }
+    ]
+  }
+    
